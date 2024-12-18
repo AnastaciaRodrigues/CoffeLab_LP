@@ -1,0 +1,42 @@
+body {
+  padding-top: 56px; 
+}
+
+.navbar {
+  background-color: #f8f9fa;
+  
+}
+
+.card {
+  border-radius: 15px; 
+  overflow: hidden; 
+}
+
+.card-img-top {
+  height: 200px; 
+  object-fit: cover; 
+}
+
+.img-fluid {
+  border-radius: 15px;  
+}
+
+footer {
+  background-color: #343a40; 
+}
+
+.custom-logo {
+  height: 60px; 
+  width: 60px; 
+}
+
+.carousel-item {
+  height: 550px; // Altura fixa para o carrossel
+}
+
+.carousel-image {
+  background-size: cover; // Cobre todo o contêiner
+  background-position: center; // Centraliza a imagem
+  height: 100%; // Altura total do item do carrossel
+  width: 100%; // Largura total do item do carrossel
+}
